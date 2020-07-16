@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Avneesh Kumar. 👋
 
+- 🔭 I’m currently working on SemBreaker App
+- 🌱 I’m currently learning Flutter
+
+### 📫 How to reach me
+- [Twitter @avaneeshsahu000](twitter.com/avaneeshsahu000)
+- [Mail avaneeshsahu000@gmail.com](avaneeshsahu000@gmail.com)
+
+<img src='https://github-readme-stats.vercel.app/api?username=Cybertron-Avneesh&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=111111&bg_color=00bcd4'>
 <!--
 **Cybertron-Avneesh/Cybertron-Avneesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
