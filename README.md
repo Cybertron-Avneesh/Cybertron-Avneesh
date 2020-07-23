@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning Flutter
 
 ### 📫 How to reach me
-- [Twitter @avaneeshsahu000](twitter.com/avaneeshsahu000)
-- [Mail avaneeshsahu000@gmail.com](avaneeshsahu000@gmail.com)
+- [Twitter @avaneeshsahu000](https://twitter.com/avaneeshsahu000)
+- [Mail Me](mailto:avaneeshsahu000@gmail.com?subject='')
 
 <a href='https://www.github.com/Cybertron-Avneesh'>
     <img src='https://github-readme-stats.vercel.app/api?username=Cybertron-Avneesh&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=111111&bg_color=00bcd4'>
