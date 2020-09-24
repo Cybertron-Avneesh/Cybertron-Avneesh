@@ -2,6 +2,8 @@
 [![GitHub Avneesh](https://img.shields.io/github/followers/Cybertron-Avneesh?label=follow&style=social)](https://github.com/Cybertron-Avneesh)
 [![Twitter: Avneesh](https://img.shields.io/twitter/follow/avaneeshsahu000?style=social)](https://twitter.com/avaneeshsahu000)
 [![website](https://img.shields.io/badge/Website-Avneesh_Kumar-2648ff?style=flat-square&logo=google-chrome)]()
+
+[![Visitor](https://profile-counter.glitch.me/Cybertron-Avneesh/count.svg)]()
 - 🔭 I’m currently working on SemBreaker App
 - 🌱 I’m currently learning Flutter
 
