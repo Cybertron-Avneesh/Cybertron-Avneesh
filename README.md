@@ -1,4 +1,3 @@
-### Hi there 👋, I'm Avneesh Kumar
 <h1 align="center">Hi 👋, I'm Avneesh Kumar</h1>
 <h3 align="center">A passionate Android developer from India.</h3>
 <p align="center">
